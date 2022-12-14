@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\400 level Alpha Semester\CEN 414\ClassProject1\obj\Debug\net6.0-windows\ClassProject1.vbproj.AssemblyReference.cache
+C:\Users\USER\Documents\400 level Alpha Semester\CEN 414\ClassProject1\obj\Debug\net6.0-windows\ClassProject1.Form1.resources
+C:\Users\USER\Documents\400 level Alpha Semester\CEN 414\ClassProject1\obj\Debug\net6.0-windows\ClassProject1.vbproj.GenerateResource.cache
+C:\Users\USER\Documents\400 level Alpha Semester\CEN 414\ClassProject1\obj\Debug\net6.0-windows\ClassProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\400 level Alpha Semester\CEN 414\ClassProject1\obj\Debug\net6.0-windows\ClassProject1.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\400 level Alpha Semester\CEN 414\ClassProject1\obj\Debug\net6.0-windows\ClassProject1.AssemblyInfo.vb
+C:\Users\USER\Documents\400 level Alpha Semester\CEN 414\ClassProject1\obj\Debug\net6.0-windows\ClassProject1.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\400 level Alpha Semester\CEN 414\ClassProject1\bin\Debug\net6.0-windows\ClassProject1.exe
+C:\Users\USER\Documents\400 level Alpha Semester\CEN 414\ClassProject1\bin\Debug\net6.0-windows\ClassProject1.deps.json
+C:\Users\USER\Documents\400 level Alpha Semester\CEN 414\ClassProject1\bin\Debug\net6.0-windows\ClassProject1.runtimeconfig.json
+C:\Users\USER\Documents\400 level Alpha Semester\CEN 414\ClassProject1\bin\Debug\net6.0-windows\ClassProject1.dll
+C:\Users\USER\Documents\400 level Alpha Semester\CEN 414\ClassProject1\bin\Debug\net6.0-windows\ClassProject1.pdb
+C:\Users\USER\Documents\400 level Alpha Semester\CEN 414\ClassProject1\obj\Debug\net6.0-windows\ClassProject1.dll
+C:\Users\USER\Documents\400 level Alpha Semester\CEN 414\ClassProject1\obj\Debug\net6.0-windows\refint\ClassProject1.dll
+C:\Users\USER\Documents\400 level Alpha Semester\CEN 414\ClassProject1\obj\Debug\net6.0-windows\ClassProject1.pdb
+C:\Users\USER\Documents\400 level Alpha Semester\CEN 414\ClassProject1\obj\Debug\net6.0-windows\ClassProject1.genruntimeconfig.cache
+C:\Users\USER\Documents\400 level Alpha Semester\CEN 414\ClassProject1\obj\Debug\net6.0-windows\ref\ClassProject1.dll
